@@ -1,9 +1,9 @@
 {
     "version": 11,
-    "default_lang": "en_US",
+    "default_lang": "zh_CN",
     "translations": {
         "en_US": {
-            "name": "English (US)",
+            "name": "英文(默认)",
             "file": "en_US.json"
         },
         "zh_CN": {
