@@ -1,6 +1,6 @@
 {
     "version": 11,
-    "default_lang": "zh_CN",
+    "default_lang": "en_US",
     "translations": {
         "en_US": {
             "name": "英文(默认)",
