@@ -1,11 +1,22 @@
 {
-    "fallback_default_language": "zh_CN",
-    "fallback_languages": {
+    "version": 11,
+    "default_lang": "Lolcat",
+    "translations": {
+        "en_US": {
+            "name": "English (US)",
+            "file": "en_US.json"
+        },
+        "en_LOL": {
+            "name": "Lolcat",
+            "file": "en_LOL.json"
+        },
         "zh_CN": {
-            "file": "zh_CN.json",
-            "name": "中文简体"
+            "name": "Chinese (CN)",
+            "file": "zh_CN.json"
+        },
+        "zh_TW": {
+            "name": "Chinese (TW)",
+            "file": "zh_TW.json"
         }
-    },
-    "selected_language": "zh_CN",
-    "version": 11
+    }
 }
