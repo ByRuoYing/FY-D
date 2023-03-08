@@ -1,22 +1,10 @@
 {
     "version": 11,
-    "default_lang": "JTZW",
+    "default_lang": "zh_CN",
     "translations": {
-        "en_US": {
-            "name": "English (US)",
-            "file": "en_US.json"
-        },
-        "en_LOL": {
-            "name": "Lolcat",
-            "file": "en_LOL.json"
-        },
         "zh_CN": {
-            "name": "Chinese (CN)",
-            "file": "JTZW.json"
-        },
-        "zh_TW": {
-            "name": "Chinese (TW)",
-            "file": "zh_TW.json"
+            "name": "中文简体",
+            "file": "zh_CN.json"
         }
     }
 }
