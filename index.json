@@ -1,14 +1,11 @@
 {
-    "version": 11,
-    "default_lang": "en_US",
-    "translations": {
-        "en_US": {
-            "name": "英文(默认)",
-            "file": "en_US.json"
-        },
+    "fallback_default_language": "zh_CN",
+    "fallback_languages": {
         "zh_CN": {
-            "name": "中文简体",
-            "file": "zh_CN.json"
+            "file": "zh_CN.json",
+            "name": "中文简体"
         }
-    }
+    },
+    "selected_language": "zh_CN",
+    "version": 11
 }
