@@ -1,6 +1,6 @@
 {
     "version": 11,
-    "default_lang": "Lolcat",
+    "default_lang": "en_LOL",
     "translations": {
         "en_US": {
             "name": "English (US)",
