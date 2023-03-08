@@ -1,0 +1,14 @@
+{
+    "version": 11,
+    "default_lang": "zh_CN",
+    "translations": {
+        "en_US": {
+            "name": "English (US)",
+            "file": "en_US.json"
+        },
+        "zh_CN": {
+            "name": "Chinese (CN)",
+            "file": "zh_CN.json"
+        }
+    }
+}
