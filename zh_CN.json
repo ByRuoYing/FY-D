@@ -320,6 +320,7 @@
   "GAME_CACHE_UPDATING": "正在更新缓存，请稍候...",
   "GAME_CACHE_UPDATE_CACHE": "更新缓存",
   "GAME_CACHE_WAITING_FOR_ONLINE": "等待在线开始缓存更新...",
+  "GAME_CACHE_ON_INIT": "初始化时更新缓存",
   "GAME_CACHE": "游戏缓存",
   "GENERAL": "一般的",
   "GET_ALL_WEAPONS": "获得所有武器",
