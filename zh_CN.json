@@ -770,5 +770,30 @@
   "OUTFIT_APPLY_SELECTED": "应用选择",
   "OUTFIT_DELETE_SELECTED": "删除所选",
   "OUTFIT_SLOT": "槽",
-  "OUTFIT_NAME": "名"
+  “OUTFIT_NAME”： “名”，
+  “GUI_TAB_ORBITAL_DRONE”： “轨道无人机”，
+  “ORBITAL_DRONE_USAGE_DESCR”：“按”向后看“（默认为 C/R3）激活\n 按 WASD 按钮或左操纵杆导航\n 使用滚轮/鼠标或右摇杆进行缩放\n 按 E/Q 或 L1/R1 修改速度\n 按”跳跃“（默认为空格/X/正方形）锁定实体\n 按”开火“（鼠标按钮 1/默认为右扳机）消除\n默认按回车键或 A/X传送到目标“，
+  “ORBITAL_DRONE_AUTO_LOCK_ON_PLAYER”： “自动锁定玩家”，
+  “ORBITAL_DRONE_AUTO_LOCK_ON_PLAYER_TOOLTIP”： “如果启用，则将所选玩家更改为锁定实体时检测到的玩家\n所有爆炸都将归咎于所选玩家，默认为本地玩家”，
+  “ORBITAL_DRONE_HIGH_SPEED_MULTIPLIER”： “高速轨道无人机乘数：”，
+  “ORBITAL_DRONE_LOW_SPEED_MULTIPLIER”： “低速轨道无人机乘数：”，
+  “VEHICLE_CONTROLLER”： “车辆控制器”，
+  “VEHICLE_CONTROLLER_TRY_ALT_PATHFINDING”： “使用替代方法无法使用准确的方法进行路径查找。
+  “VEHICLE_CONTROLLER_FOUND_LOCATION”： “找到一个好地方，你的车正在路上。
+  “VEHICLE_CONTROLLER_FORCE_PATHFINDING”： “无法找到准确的位置，无论如何，您的车辆都在路上。
+  “VEHICLE_CONTROLLER_NAVMESH_FAILURE”： “无法加载导航网格，无法导航。
+  “开放”： “开放”，
+  “CLOSE_ALL_DOORS”： “全部关闭”，
+  “OPEN_ALL_DOORS”： “全部打开”，
+  “VEHICLE_CONTROLLER_ALL_DOORS”： “所有门”，
+  “VEHICLE_CONTROLLER_TOGGLE_LIGHTS”： “切换灯”，
+  “VEHICLE_CONTROLLER_TOGGLE_HIGH_BEAMS”： “切换远光灯”，
+  “VEHICLE_CONTROLLER_INTERIOR_LIGHTS_ON”： “车内灯亮起”，
+  “VEHICLE_CONTROLLER_INTERIOR_LIGHTS_OFF”： “车内灯熄灭”，
+  “VEHICLE_CONTROLLER_NEON_LIGHTS”： “霓虹灯”，
+  “VEHICLE_CONTROLLER_ENTER_VEHICLE_SPEED_WALKING”： “走”，
+  “VEHICLE_CONTROLLER_ENTER_VEHICLE_SPEED_RUNNING”： “奔跑”，
+  “VEHICLE_CONTROLLER_ENTER_VEHICLE_SPEED_SPRINTING”： “冲刺”，
+  “POTENTIAL_ADMIN_FOUND”： “找到潜在的管理员！
+  “PLAYER_DETECTED_AS_ADMIN”：“{} 已被检测为管理员”
 }
