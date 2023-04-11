@@ -772,7 +772,7 @@
   "OUTFIT_SLOT": "槽",
   "OUTFIT_NAME": "名",
   "GUI_TAB_ORBITAL_DRONE": "轨道无人机",
-  "ORBITAL_DRONE_USAGE_DESCR": "按'Look behind'（默认为 C/R3）激活\n 按 WASD 或左操纵杆导航\n 使用滚轮/鼠标或右摇杆进行缩放\n 按 E/Q 或 L1/R1 修改速度\n 按”跳跃“（默认为空格/X/正方形）锁定实体\n 按”开火“（鼠标1/默认为右Ban机）消除\n默认按回车键或 A/X传送到目标",
+  "ORBITAL_DRONE_USAGE_DESCR": "按'Look behind'（默认为 C/R3）激活\n 按 WASD 或左操纵杆导航\n 使用滚轮/鼠标或右摇杆进行缩放\n 按 E/Q 或 L1/R1 修改速度\n 按‘跳跃’（默认为空格/X/正方形）锁定实体\n 按‘开火’（鼠标1/默认为右Ban机）消除\n默认按回车键或 A/X传送到目标",
   "ORBITAL_DRONE_AUTO_LOCK_ON_PLAYER": "自动锁定玩家",
   "ORBITAL_DRONE_AUTO_LOCK_ON_PLAYER_TOOLTIP": "如果启用，则将所选玩家更改为锁定实体时检测到的玩家\n所有爆炸都将归咎于所选玩家，默认为本地玩家",
   "ORBITAL_DRONE_HIGH_SPEED_MULTIPLIER": "高速轨道无人机乘数:",
