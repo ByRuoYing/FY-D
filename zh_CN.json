@@ -319,6 +319,7 @@
   "GAME_CACHE_UPDATE": "本脚本需要更新游戏缓存。 这最多需要一分钟才能生成.",
   "GAME_CACHE_UPDATING": "正在更新缓存，请稍候...",
   "GAME_CACHE_UPDATE_CACHE": "更新缓存",
+  "GAME_CACHE_WAITING_FOR_SINGLE_PLAYER": "等待单人游戏加载...",
   "GAME_CACHE_WAITING_FOR_ONLINE": "等待在线开始缓存更新...",
   "GAME_CACHE_ON_INIT": "初始化时更新缓存",
   "GAME_CACHE": "游戏缓存",
