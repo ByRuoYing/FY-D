@@ -727,6 +727,7 @@
   "GUI_TAB_PROTECTION": "防护选项",
   "GUI_TAB_TRANSLATION": "翻译设置",
   "GUI_TAB_DEBUG": "调试",
+  "GUI_TAB_IPL": "IPL",
   "CMD_EXECUTOR_TITLE": "RuoYing 命令执行器",
   "CMD_EXECUTOR_TYPE_CMD": "输入命令",
   "CMD_EXECUTOR_NO_CMD": "找不到任何命令. :(",
@@ -796,5 +797,11 @@
   "VEHICLE_CONTROLLER_ENTER_VEHICLE_SPEED_RUNNING": "跑",
   "VEHICLE_CONTROLLER_ENTER_VEHICLE_SPEED_SPRINTING": "冲",
   "POTENTIAL_ADMIN_FOUND": "找到潜在的管理员!",
-  "PLAYER_DETECTED_AS_ADMIN": "{} 已被检测为管理员"
+  "PLAYER_DETECTED_AS_ADMIN": "{} 已被检测为管理员",
+  "IPL_LOCATION": "IPL 位置",
+  "LOAD_IPL": "加载 IPL",
+  "TP_TO_IPL": "传送到 IPL",
+  "IPL_INFOS": "IPL 信息",
+  "IPL_CNT": "IPL 计数 {}",
+  "IPL_POSITION": "位置 X: {} | Y: {} | Z: {}"
 }
