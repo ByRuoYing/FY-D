@@ -228,6 +228,8 @@
   "FORCE_INTO_MISSION_DESC": "强制玩家进入机动作战中心任务",
   "FORCE_INTO_MISSION": "强制任务",
   "FORCE_MISSION": "强制任务",
+  "FORCE_RELAY_CXN": "强制继电器连接",
+  "FORCE_RELAY_CXN_DESC": "强制中继连接将对其他玩家隐藏您的 IP 地址.这也将阻止您看到其他人的实际 IP 地址.启用此功能可能会导致您或其他玩家显得滞后，并会导致任务出现问题.",
   "FORCE_SCRIPT_HOST": "强制成为脚本主机",
   "FORCE_SCRIPT_HOST_DESC": "这可能会破坏自由模式任务和内部.请谨慎使用",
   "FORCE_SESSION_HOST_DESC": "加入其他战局以应用更改，战局的原主机必须离开战局。此功能很容易被其他作弊者检测到，请谨慎使用",
